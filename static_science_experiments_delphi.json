@@ -1,0 +1,22 @@
+{
+  "title": {
+    "en": "DELPHI",
+    "fr": "DELPHI"
+  },
+
+  "hook": {
+    "en": "The DELPHI detector was equipped with 20 subdetectors and advanced tracking systems for short-lived particles",
+    "fr": "Le d\u00e9tecteur DELPHI a \u00e9t\u00e9 \u00e9quip\u00e9 de 20 sous-d\u00e9tecteurs et des syst\u00e8mes \u00e9volu\u00e9s pour d\u00e9tecter des particules de courte dur\u00e9e de vie"
+  },
+
+  "body": {
+    "en": "<p>DELPHI was one of four large <a href=\"https://home.cern/science/experiments/how-detector-works\">detectors</a> on the <a href=\"https://home.cern/science/accelerators/large-electron-positron-collider\">Large Electron-Positron collider</a> (LEP). It took 7 years to design and build, and it started up in 1989. In December 2000, DELPHI stopped taking data and was dismantled to leave room for the construction of the <a href=\"https://home.cern/science/accelerators/large-hadron-collider\">Large Hadron Collider</a> in the LEP tunnel.</p><p>DELPHI consisted of a central cylinder filled with subdetectors, with two end-caps. It was 10 metres in length and diameter, and weighed 3500 tonnes. The detector consisted of 20 subdetectors. A large superconducting magnet sat between an electromagnetic calorimeter (for tracking electrons) and a hadronic calorimeter (to detect hadrons). The magnet generated a field to deflect charged particles so their charge and momenta could be measured.</p><p>The DELPHI detector used the ring imaging Cherenkov technique to differentiate between secondary charged particles, and it had an advanced silicon detector to detect short-lived particles by extrapolating the tracks back towards the collision point.</p><p>The collaboration running the detector consisted of about 550 physicists from 56 participating universities and institutes in 22 countries.</p><p><strong><a href=\"http://delphiwww.cern.ch/\">Find out more on the archived DELPHI public site</a></strong></p>",
+
+    "fr": "<p>DELPHI \u00e9tait l\u2019un des quatre <a href=\"https://home.cern/science/experiments/how-detector-works\">d\u00e9tecteurs</a> du <a href=\"https://home.cern/science/accelerators/large-electron-positron-collider\">Grand collisionneur \u00e9lectron-positon</a> (LEP). Sa conception et sa construction ont dur\u00e9 sept ans, et son exploitation a commenc\u00e9 en 1989. En d\u00e9cembre 2000, DELPHI a cess\u00e9 de recueillir des donn\u00e9es et a \u00e9t\u00e9 d\u00e9mont\u00e9 pour permettre de construire le <a href=\"https://home.cern/science/accelerators/large-hadron-collider\">Grand collisionneur de hadrons</a> (LHC) dans le tunnel du LEP.</p><p>DELPHI se composait d\u2019un cylindre central \u00e9quip\u00e9 de 20 sous-d\u00e9tecteurs et de deux bouchons externes, pesait 3 500 tonnes et mesurait 10 m\u00e8tres de long et 10 m\u00e8tres de diam\u00e8tre. \u00c0 l\u2019int\u00e9rieur, un grand aimant supraconducteur \u00e9tait dispos\u00e9 entre un calorim\u00e8tre \u00e9lectromagn\u00e9tique (qui d\u00e9tectait les \u00e9lectrons) et un calorim\u00e8tre hadronique (qui d\u00e9tectait les hadrons). L\u2019aimant g\u00e9n\u00e9rait un champ magn\u00e9tique qui d\u00e9viait la trajectoire des particules charg\u00e9es pour permettre la mesure de leur charge et de leur impulsion.</p><p>DELPHI utilisait la technique du d\u00e9tecteur Tch\u00e9renkov \u00e0 focalisation annulaire pour d\u00e9terminer les diff\u00e9rents types de particules charg\u00e9es secondaires, et son d\u00e9tecteur au silicium d\u00e9tectait les particules \u00e0 dur\u00e9e de vie br\u00e8ve par une extrapolation de la trajectoire remontant jusqu\u2019au point de collision.</p><p>La collaboration DELPHI comptait environ 550 physiciens issus de 56 universit\u00e9s et instituts de 22 pays.</p><p><strong><a href=\"http://delphiwww.cern.ch/\">Pour en savoir plus voir les pages publiques de DELPHI (archives)</a></strong></p>"
+  },
+
+  "image_url": "https://home.cern/sites/home.web.cern.ch/files/2018-06/delphi_1.jpeg",
+  "oda_tags": ["lep", "delphi", "experiments"],
+  "oda_type": "about",
+  "id": "static/science/experiments/delphi"
+}
