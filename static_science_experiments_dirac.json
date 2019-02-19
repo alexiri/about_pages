@@ -1,0 +1,22 @@
+{
+  "title": {
+    "en": "DIRAC",
+    "fr": "DIRAC"
+  },
+
+  "hook": {
+    "en": "A collaboration of CERN physicists are studying the decay of unstable \u201cpionium atoms\u201d to gain insight into the strong force",
+    "fr": "Une collaboration au CERN \u00e9tudie la d\u00e9sint\u00e9gration d'\u00ab atomes pioniques \u00bb instables pour mieux comprendre la force forte"
+  },
+
+  "body": {
+    "en": "<p>The <a href=\"http://dirac.web.cern.ch/DIRAC/\">Dimeson Relativistic Atom Complex</a> (DIRAC) is an experiment to help physicists gain a deeper insight into the fundamental force called the strong force. This plays a crucial role in particle physics, as it binds together the particles called quarks, which in turn make up many other particles, including the protons and neutrons that form the nuclei of ordinary atoms.</p><p>Relatively little work has been done at low energy to test the quantum theory of the strong force, or, equivalently, how the force behaves at longer distances.</p><p>DIRAC, a collaboration of 87 scientists from 7 countries, is studying the decay of unstable \"pionium atoms\" to address this gap. These are transient atoms in which positive and negative pions (unstable fundamental particles made of quarks) are bound together. They are produced using a beam from CERN\u2019s <a href=\"https://home.cern/science/accelerators/proton-synchrotron\">Proton Synchrotron</a> accelerator. Their \"lifetime\", from creation to the end of the decay process, is being measured to a level of accuracy never achieved before.</p>",
+
+    "fr": "<p>L\u2019exp\u00e9rience DIRAC (Complexe atomique relativiste de di-m\u00e9sons) vise \u00e0 mieux comprendre la force forte. Cette force joue un r\u00f4le crucial en physique des particules, car elle lie entre elles des particules fondamentales appel\u00e9es quarks. Ces quarks s'assemblent pour produire de nombreuses autres particules, dont les protons et les neutrons, qui forment les noyaux des atomes ordinaires.</p><p>Peu d'exp\u00e9riences ont test\u00e9 \u00e0 basse \u00e9nergie la th\u00e9orie quantique de la force forte ou, de mani\u00e8re \u00e9quivalente, comment la force forte se comporte \u00e0 des distances plus grandes.</p><p>DIRAC, une collaboration de 87 scientifiques de 7 pays, a pour objet de combler cette lacune en \u00e9tudiant la d\u00e9sint\u00e9gration d'\u00ab atomes pioniques \u00bb instables. Ce sont des atomes de transition dans lesquels des pions positifs et des pions n\u00e9gatifs (particules fondamentales instables constitu\u00e9es de quarks) sont li\u00e9s les uns aux autres. Ils sont produits gr\u00e2ce \u00e0 un faisceau de l'acc\u00e9l\u00e9rateur Synchrotron \u00e0 protons du CERN. Leur \u00ab dur\u00e9e de vie \u00bb, depuis la cr\u00e9ation jusqu'\u00e0 la fin du processus de d\u00e9sint\u00e9gration, est mesur\u00e9e \u00e0 un niveau de pr\u00e9cision jamais atteint jusqu'ici.</p>"
+  },
+
+  "image_url": "https://home.cern/sites/home.web.cern.ch/files/2018-06/dirac_0_1.jpeg",
+  "oda_tags": ["experiments", "strong-force", "dirac", "quantum-theory", "pion"],
+  "oda_type": "about",
+  "id": "static/science/experiments/dirac"
+}

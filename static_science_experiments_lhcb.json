@@ -1,0 +1,22 @@
+{
+  "title": {
+    "en": "LHCb",
+    "fr": "LHCb"
+  },
+
+  "hook": {
+    "en": "The LHCb experiment will shed light on why we live in a universe that appears to be composed almost entirely of matter, but no antimatter",
+    "fr": "LHCb nous permettrera de comprendre pourquoi nous vivons dans un Univers qui semble \u00eatre constitu\u00e9 de mati\u00e8re, sans aucune pr\u00e9sence d\u2019antimati\u00e8re"
+  },
+
+  "body": {
+    "en": "<p>The <a href=\"http://lhcb-public.web.cern.ch/lhcb-public/\">Large Hadron Collider beauty</a> (LHCb) experiment specializes in investigating the slight differences between matter and antimatter by studying a type of particle called the \"beauty quark\", or \"b quark\".</p><p>Instead of surrounding the entire collision point with an enclosed detector as do <a href=\"https://home.cern/science/experiments/atlas\">ATLAS</a> and <a href=\"https://home.cern/science/experiments/cms\">CMS</a>, the LHCb experiment uses a series of subdetectors to detect mainly forward particles - those thrown forwards by the collision in one direction. The first subdetector is mounted close to the collision point, with the others following one behind the other over a length of 20 metres.</p><p>An abundance of different types of quark are created by the LHC before they decay quickly into other forms. To catch the b quarks, LHCb has developed sophisticated movable tracking detectors close to the path of the beams circling in the LHC.</p><p>The 5600-tonne LHCb detector is made up of a forward spectrometer and planar detectors. It is 21 metres long, 10 metres high and 13 metres wide, and sits 100 metres below ground near the village of Ferney-Voltaire, France. About 700 scientists from 66 different institutes and universities make up the LHCb collaboration (October 2013).</p>",
+
+    "fr": "<p>L\u2019exp\u00e9rience LHCb (<a href=\"http://lhcb-public.web.cern.ch/lhcb-public/\"><em>Large Hadron Collider beauty</em></a>) explore les l\u00e9g\u00e8res diff\u00e9rences qui existent entre mati\u00e8re et antimati\u00e8re gr\u00e2ce \u00e0 l\u2019\u00e9tude d\u2019un type de particule appel\u00e9 \u00ab quark beaut\u00e9 \u00bb ou \u00ab quark b \u00bb.</p><p>Au lieu d\u2019utiliser un d\u00e9tecteur ferm\u00e9 au niveau du point de collision, tel que ceux d\u2019ATLAS et de CMS, l\u2019exp\u00e9rience LHCb a recours \u00e0 plusieurs sous-d\u00e9tecteurs con\u00e7us pour observer principalement les particules \u00e9mises \u00ab \u00e0 petits angles \u00bb, vers l\u2019avant, dans le sens du faisceau. Le premier sous-d\u00e9tecteur est plac\u00e9 \u00e0 proximit\u00e9 du point de collision ; les autres se suivent sur une longueur de 20 m\u00e8tres.</p><p>Le LHC produit une grande vari\u00e9t\u00e9 de quarks, qui se d\u00e9sint\u00e8grent rapidement en d\u2019autres particules.</p><p>Pour intercepter les quarks b, la collaboration LHCb a mis au point des trajectographes mobiles perfectionn\u00e9s et les a install\u00e9s au plus pr\u00e8s de la trajectoire des faisceaux dans le LHC.</p><p>Le d\u00e9tecteur de LHCb, qui p\u00e8se 5 600 tonnes, est constitu\u00e9 d\u2019un spectrom\u00e8tre \u00e0 petit angle et de d\u00e9tecteurs planaires. Long de 21 m\u00e8tres, haut de 10 m\u00e8tres et large de 13 m\u00e8tres, il est install\u00e9 \u00e0 100 m\u00e8tres sous terre, \u00e0 proximit\u00e9 de la commune de Ferney-Voltaire (France). La collaboration LHCb regroupe environ 700 scientifiques venant de 66 instituts et universit\u00e9s (octobre 2013).</p>"
+  },
+
+  "image_url": "https://home.cern/sites/home.web.cern.ch/files/2018-07/lhcb.jpeg",
+  "oda_tags": ["experiments", "detector", "lhcb", "beauty-quark", "quark"],
+  "oda_type": "about",
+  "id": "static/science/experiments/lhcb"
+}

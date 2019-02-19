@@ -1,0 +1,22 @@
+{
+  "title": {
+    "en": "ATRAP",
+    "fr": "ATRAP"
+  },
+
+  "hook": {
+    "en": "ATRAP compares hydrogen atoms with their antimatter equivalents - antihydrogen atoms",
+    "fr": "ATRAP compare des atomes d'hydrog\u00e8ne avec leurs \u00e9quivalents d'antimati\u00e8re - des atomes d\u2019antihydrog\u00e8ne"
+  },
+
+  "body": {
+    "en": "<p>The Antihydrogen trap (ATRAP) is an experiment to compare hydrogen atoms with their antimatter equivalents \u2013 antihydrogen atoms. In 2002, ATRAP <a href=\"https://home.cern/news/press-release/cern/cern-experiment-provides-first-glimpse-inside-cold-antihydrogen\">provided the first glimpse inside antihydrogen atoms</a> after researchers successfully created and measured a large number of them.</p><p>An atom of antihydrogen consists of an antiproton and a positron (an antielectron). One of the difficulties in making antimatter is the energy the antiprotons possess when they are first made, shooting out of the apparatus at close to the speed of light. The researchers use a process called \"cooling\" to slow the antiprotons down so that they can be studied.</p><p>ATRAP was the first experiment to use cold positrons to cool antiprotons. The two ingredients were confined in the same trap and when they had both reached a similar temperature, some combined to form atoms of antihydrogen (a positron orbiting an antiproton). This technique was developed from another experiment at CERN called TRAP, the predecessor of ATRAP.</p><p>The current experiment was set up in the late 1990s at the same time as the ATHENA experiment. Both experiments had the same goals and used similar methods to produce antihydrogen atoms, but had different detectors.</p><p>While the ATHENA experiment came to an end in 2004, ATRAP is still in operation. It <a href=\"https://home.cern/news/press-release/cern/cern-experiment-makes-progress-towards-antihydrogen-beams\">continues to create antihydrogen</a> cold enough and trapped for long enough to enable precise measurements and comparisons with ordinary hydrogen. </p>",
+
+    "fr": "<p>L\u2019exp\u00e9rience ATRAP a pour objet de comparer les atomes d\u2019hydrog\u00e8ne aux particules d'antimati\u00e8re correspondantes, les atomes d'antihydrog\u00e8ne. Une premi\u00e8re \u00e9tude de ceux-ci a \u00e9t\u00e9 rendue possible en 2002, lorsque les chercheurs <a href=\"https://home.cern/fr/news/press-release/general-cern/cern-experiment-provides-first-glimpse-inside-cold-antihydrogen\" target=\"_blank\">ont cr\u00e9\u00e9 et mesur\u00e9 avec succ\u00e8s de grandes quantit\u00e9s de ces antiatomes</a>.</p><p>L\u2019atome d\u2019antihydrog\u00e8ne est constitu\u00e9 d\u2019un antiproton et d\u2019un positon (un anti\u00e9lectron). L'une des difficult\u00e9s de la production d'antimati\u00e8re vient de l\u2019\u00e9nergie des antiprotons qui, lors de leur cr\u00e9ation, atteignent des vitesses proches de celle de la lumi\u00e8re. En cons\u00e9quence, il a fallu les refroidir pour les ralentir autant que possible. L\u2019\u00e9quipe ATRAP a \u00e9t\u00e9 la premi\u00e8re \u00e0 utiliser des positons froids pour refroidir les antiprotons. Les atomes d\u2019antihydrog\u00e8ne (un positon en orbite autour d\u2019un antiproton) se forment lorsque les anti\u00e9lectrons et les antiprotons introduits dans le m\u00eame pi\u00e8ge se combinent apr\u00e8s avoir atteint une temp\u00e9rature similaire. Cette technique s\u2019inspire des \u00e9tudes r\u00e9alis\u00e9es dans le cadre de TRAP, l\u2019exp\u00e9rience ayant pr\u00e9c\u00e9d\u00e9 ATRAP.</p><p>ATRAP a \u00e9t\u00e9 mise en place \u00e0 la fin des ann\u00e9es 90 en m\u00eame temps que l\u2019exp\u00e9rience ATHENA. Avec des objectifs similaires et les m\u00eames m\u00e9thodes pour produire les atomes d\u2019antihydrog\u00e8ne, ATRAP et ATHENA se diff\u00e9renciaient par les techniques de d\u00e9tection.</p><p>L\u2019exp\u00e9rience ATHENA a pris fin en 2004, alors qu\u2019ATRAP est toujours en activit\u00e9. Il s\u2019agit de cr\u00e9er de l\u2019antihydrog\u00e8ne qui soit suffisamment froid et qui se laisse pi\u00e9ger pendant assez longtemps pour que les chercheurs puissent effectuer des mesures pr\u00e9cises avant de comparer les atomes ainsi obtenus \u00e0 l\u2019hydrog\u00e8ne ordinaire.</p>"
+  },
+
+  "image_url": "https://home.cern/sites/home.web.cern.ch/files/2018-06/atrap_positron_line_1.jpeg",
+  "oda_tags": ["antihydrogen", "atrap", "experiments", "antimatter"],
+  "oda_type": "about",
+  "id": "static/science/experiments/atrap"
+}

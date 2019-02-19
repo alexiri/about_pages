@@ -1,0 +1,22 @@
+{
+  "title": {
+    "en": "The Synchrocyclotron",
+    "fr": null
+  },
+
+  "hook": {
+    "en": "The 600 MeV Synchrocyclotron, built in 1957, was CERN\u2019s first accelerator",
+    "fr": null
+  },
+
+  "body": {
+    "en": "<p>The 600 MeV Synchrocyclotron (SC), built in 1957, was CERN\u2019s first accelerator. It provided beams for CERN\u2019s first experiments in particle and nuclear physics. In 1964, this machine started to concentrate on nuclear physics alone, leaving particle physics to the newer and more powerful <a href=\"https://home.cern/science/accelerators/proton-synchrotron\">Proton Synchrotron</a>.</p><p>The SC became a remarkably long-lived machine. In 1967, it started supplying beams for a dedicated radioactive-ion-beam facility called <a href=\"https://home.cern/science/experiments/isolde\">ISOLDE</a>, which still carries out research ranging from pure nuclear physics to astrophysics and medical physics. In 1990, ISOLDE was transferred to the <a href=\"https://home.cern/science/accelerators/proton-synchrotron-booster\">Proton Synchrotron Booster</a>, and the SC closed down after 33 years of service.</p>",
+
+    "fr": null
+  },
+
+  "image_url": "https://home.cern/sites/home.web.cern.ch/files/image/accelerator/2012/12/SC%202012.jpg",
+  "oda_tags": ["accelerators", "synchrocyclotron"],
+  "oda_type": "about",
+  "id": "static/science/accelerators/synchrocyclotron"
+}

@@ -1,0 +1,22 @@
+{
+  "title": {
+    "en": "The network challenge",
+    "fr": "Les d\u00e9fis des r\u00e9seaux"
+  },
+
+  "hook": {
+    "en": "Connecting the dots",
+    "fr": "Des connexions essentielles"
+  },
+
+  "body": {
+    "en": "<div class=\"text-component-text cern_full_html\">\n<p>Internal and external network communications are essential for CERN. Internally, no less than 35 000 km of optical fibre provide network connectivity throughout the CERN sites. The CERN Data Centre is also the host of the <a href=\"https://cixp.net/\">CERN Internet eXchange Point (CIXP),</a> a carrier-neutral exchange point, through which CERN played a central role for the internet\u2019s development: in 1991, 80% of the internet capacity in Europe for international traffic was installed in the CERN Data Centre.</p>\n<p>The CERN Data Centre and its remote extension, installed at the <a href=\"https://wigner.mta.hu/index.php/en/about-us\">Wigner Research Centre for Physics</a> in Budapest, Hungary, also rely heavily on the quality of the network connections linking them. They are connected via three independent and dedicated 100-Gb/s (gigabit per second) fibre-optic lines. Network latency (the time taken between sending data and receiving on the other end) between the two sites, which are 1200 km apart, is about 12 milliseconds.</p>\n<p>One of the most impressive components of the Worldwide LHC Computing Grid is its networking and connectivity. It can initiate the distribution of data to the hundreds of collaborating institutes worldwide thanks to the excellent connectivity and dedicated networking infrastructure set up at CERN and subsequently worldwide. Since the beginning of the second four-year-long LHC running period, the data transfer rates around the globe also reached new peak rates \u2013 between 30 and 40 gigabytes per second continuous rates, around a factor of two higher than had been typical during the LHC Run 1.</p>\n</div>",
+
+    "fr": "<div class=\"text-component-text cern_full_html\">\n<p>En interne, pas moins de 35 000 km de fibres optiques assurent la connectivit\u00e9 r\u00e9seau sur l'ensemble des sites du CERN. Le centre de calcul du CERN h\u00e9berge \u00e9galement <a href=\"https://cixp.net/\">le point d'\u00e9change Internet du CERN (CIXP)</a>, un point d'\u00e9change neutre vis-\u00e0-vis des op\u00e9rateurs, via lequel le CERN a jou\u00e9 un r\u00f4le central dans le d\u00e9veloppement d'Internet : en 1991, 80% de la capacit\u00e9 d'internet en Europe pour le trafic international \u00e9tait install\u00e9e dans le centre de calcul du CERN.</p>\n<p>Le Centre de calcul du CERN et son extension, install\u00e9e \u00e0 distance au <a href=\"https://wigner.mta.hu/index.php/en/about-us\">Centre de recherche Wigner pour la physique</a> \u00e0 Budapest, en Hongrie, d\u00e9pendent grandement de la qualit\u00e9 des connexions r\u00e9seaux qui les relient. Ils sont connect\u00e9s via trois lignes de fibres optiques ind\u00e9pendantes et d\u00e9di\u00e9es de 100 Gb/s (gigabit par seconde). La latence du r\u00e9seau (d\u00e9lai entre l\u2019envoi de donn\u00e9es et la r\u00e9ception) entre les deux sites, distants de 1 200 km, est d\u2019environ 12 millisecondes.</p>\n<p>L\u2019une des composantes les plus impressionnantes de la Grille WLCG est la connectivit\u00e9 et tout ce qui a trait aux r\u00e9seaux. Gr\u00e2ce \u00e0 eux, tant au CERN que plus largement au niveau mondial, la Grille est \u00e0 m\u00eame de lancer la distribution des donn\u00e9es ensuite partag\u00e9es avec des centaines d\u2019instituts collaborant internationalement. Depuis le d\u00e9but de la seconde p\u00e9riode d\u2019exploitation de quatre ans du LHC, les taux de transfert de donn\u00e9es globaux ont eux aussi atteints des sommets. Des taux deux fois plus \u00e9lev\u00e9s que ceux enregistr\u00e9s durant la premi\u00e8re p\u00e9riode d\u2019exploitation du LHC ont \u00e9t\u00e9 observ\u00e9s, allant de 30 \u00e0 40 gigaoctets par seconde en continu.</p>\n</div>"
+  },
+
+  "image_url": "https://cds.cern.ch/images/IT-PHO-CCC-2016-002-95/file?size=large",
+  "oda_tags": ["computing"],
+  "oda_type": "about",
+  "id": "static/science/computing/network"
+}
