@@ -1,0 +1,21 @@
+{
+  "title": {
+    "en": "What we do",
+    "fr": "Quelles sont nos recherches ?"
+  },
+
+  "hook": {
+    "en": null,
+    "fr": null
+  },
+
+  "body": {
+    "en": "<div class=\"component-division__text\">\n<div class=\"component-division__text__link\">\n<a href=\"https://home.cern/about/what-we-do/our-research\" title=\"What are our areas of research?\">\n<span>What are our areas of research?</span>\n</a>\n</div>\n<div class=\"component-division__text__text\">\n<span><p>CERN's main focus is particle physics \u2013 the study of the fundamental constituents of matter \u2013 but the physics programme at the laboratory is much broader, ranging from nuclear to high-energy physics, from studies of antimatter to the possible effects of cosmic rays on clouds.</p>\n<p>Have we reached the end of the road in understanding nature? Far from it. There is still much to learn about the Higgs boson, and many other puzzles remain about how and why matter in the Universe is the way it is.</p>\n</span>\n</div>\n</div><div class=\"component-division__text\">\n<div class=\"component-division__text__link\">\n<a href=\"https://home.cern/about/what-we-do/our-impact\" title=\"How do we help society?\">\n<span>How do we help society?</span>\n</a>\n</div>\n<div class=\"component-division__text__text\">\n<span><p>The scientific advancements of CERN push the frontiers of technology, which has a positive impact on society globally. Although the core mission of the Laboratory is fundamental research in particle physics, it also has a remit to train the next generation of scientists and to bring nations together.</p>\n<p>The transfer of CERN technologies and expertise to society is an integral part of these activities, providing novel solutions in many fields.</p>\n</span>\n</div>\n</div>",
+
+    "fr": "<div class=\"component-division__text\">\n<div class=\"component-division__text__link\">\n<a href=\"https://home.cern/about/what-we-do/our-research\" title=\"Quels sont nos domaines de recherche ?\">\n<span>Quels sont nos domaines de recherche ?</span>\n</a>\n</div>\n<div class=\"component-division__text__text\">\n<span><p>La physique des particules est la raison d\u2019\u00eatre du CERN, mais le programme de physique du Laboratoire est beaucoup plus large, allant de la physique nucl\u00e9aire \u00e0 celle des hautes \u00e9nergies, en passant par les \u00e9tudes sur l'antimati\u00e8re et les effets des rayons cosmiques sur la formation des nuages.</p>\n<p>Sommes-nous arriv\u00e9s au bout du chemin dans notre compr\u00e9hension de la Nature ? Loin de l\u00e0. Il reste encore beaucoup \u00e0 apprendre sur le boson de Higgs, et beaucoup d\u2019\u00e9nigmes \u00e0 r\u00e9soudre pour comprendre comment et pourquoi la mati\u00e8re est ce qu\u2019elle est.</p>\n</span>\n</div>\n</div><div class=\"component-division__text\">\n<div class=\"component-division__text__link\">\n<a href=\"https://home.cern/about/what-we-do/our-impact\" title=\"Notre contribution \u00e0 la soci\u00e9t\u00e9\">\n<span>Notre contribution \u00e0 la soci\u00e9t\u00e9</span>\n</a>\n</div>\n<div class=\"component-division__text__text\">\n<span><p>Les avanc\u00e9es scientifiques du CERN permettent de repousser les fronti\u00e8res de la technologie et ont par cons\u00e9quent des retomb\u00e9es positives sur la soci\u00e9t\u00e9 \u00e0 l'\u00e9chelle mondiale. Bien que le Laboratoire ait pour mission principale de se consacrer \u00e0 la recherche fondamentale en physique des particules, il a \u00e9galement pour mandatde former la prochaine g\u00e9n\u00e9ration de scientifiques et de rassembler les nations.</p></span>\n</div>\n</div>"
+  },
+
+  "image_url": "https://cds.cern.ch/images/CERN-AC-1205149-01/file?size=large",
+  "oda_tags": [],
+  "id": "about/what-we-do"
+}

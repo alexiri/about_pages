@@ -1,0 +1,21 @@
+{
+  "title": {
+    "en": "The Low Energy Antiproton Ring",
+    "fr": "L\u2019Anneau d\u2019antiprotons de basse \u00e9nergie"
+  },
+
+  "hook": {
+    "en": "LEAR decelerated and stored antimatter from 1982 until 1996, when it was replaced by the Low Energy Ion Ring",
+    "fr": "LEAR decelerated and stored antimatter from 1982 until 1996, when it was replaced by the Low Energy Ion Ring"
+  },
+
+  "body": {
+    "en": "<p>The Low Energy Antiproton Ring (LEAR) decelerated and stored antiprotons for experiments. It was built in 1982 and operated until 1996, when it was converted into the <a href=\"https://home.cern/science/accelerators/low-energy-ion-ring\">Low Energy Ion Ring</a> (LEIR), which provides lead-ion injection for the <a href=\"https://home.cern/science/accelerators/large-hadron-collider\">Large Hadron Collider</a> (LHC).</p><p>Under the LEAR programme, four machines \u2013 the <a href=\"https://home.cern/science/accelerators/proton-synchrotron\">Proton Synchrotron</a> (PS), the Antiproton Collector (AC), the Antiproton Accumulator (AA), and LEAR \u2013 worked together to collect, cool and decelerate antiprotons for use in experiments. Protons from the PS created antiprotons in collisions with a fixed target. Then the AC and the AA worked to catch antiprotons in sufficient numbers, and LEAR, the final element in the chain, passed the antiprotons on to experiments.</p><p>When the antiproton machines were closed down in 1996 to free resources for the LHC, a number of researchers wished to continue their experiments with slow antiprotons. The CERN council asked the PS division to investigate a low-cost way to provide the necessary low-energy beams. The resulting design report for a new machine \u2013 the <a href=\"https://home.cern/science/accelerators/antiproton-decelerator\">Antiproton Decelerator</a> (AD) \u2013 was approved on 7 February 1997. The AD started operation in 2000 and is still the main provider of antiparticles at CERN today.</p>",
+
+    "fr": "<p>L\u2019Anneau d'antiprotons de basse \u00e9nergie (<em>Low Energy Antiproton Ring</em> \u2013 LEAR) \u00e9tait utilis\u00e9 pour d\u00e9c\u00e9l\u00e9rer et stocker  des antiprotons pour les exp\u00e9riences.  Construit en 1982, il fut exploit\u00e9 jusqu\u2019en 1996 ; il sera par la suite date transform\u00e9 et deviendra l\u2019Anneau d'ions de basse \u00e9nergie (<em>Low Energy Ion Ring</em> \u2013 LEIR), qui injecte des ions plomb dans le <a href=\"https://home.cern/science/accelerators/large-hadron-collider\">Grand collisionneur de hadrons</a> (LHC).</p><p>Dans le cadre du programme LEAR, quatre machines \u2013 le <a href=\"https://home.cern/science/accelerators/proton-synchrotron\">Synchrotron \u00e0 protons</a> (PS), le Collecteur d\u2019antiprotons (AC), l\u2019Accumulateur d\u2019antiprotons (AA) et le LEAR \u2013 fonctionnaient ensemble pour collecter, refroidir et d\u00e9c\u00e9l\u00e9rer des antiprotons destin\u00e9s \u00e0 \u00eatre utilis\u00e9s par des exp\u00e9riences.  Les protons venant du PS cr\u00e9aient des antiprotons en entrant en collision avec une cible fixe. L\u2019AC et l\u2019AA capturaient un nombre suffisant d\u2019antiprotons, et le LEAR, dernier maillon de la cha\u00eene, les livraient aux exp\u00e9riences.</p><p>Lorsque les machines \u00e0 antiprotons furent mises hors service en 1996 afin de lib\u00e9rer des ressources pour le LHC, un certain nombre de chercheurs ont poursuivi leurs exp\u00e9riences avec des antiprotons lents. Le Conseil du CERN demanda \u00e0 la division PS de trouver une solution peu on\u00e9reuse pour fournir les faisceaux de basse \u00e9nergie requis. Le rapport de conception d\u2019une nouvelle machine, le D\u00e9c\u00e9l\u00e9rateur d'antiprotons (AD), fut approuv\u00e9 le 7 f\u00e9vrier 1997. L\u2019AD, mis en service en 2000, reste \u00e0 ce jour le principal fournisseur d\u2019antiparticules au CERN. </p>"
+  },
+
+  "image_url": "https://home.cern/sites/home.web.cern.ch/files/image/accelerator/2013/01/lear.jpg",
+  "oda_tags": ["accelerators", "low-energy-antiproton-ring"],
+  "id": "science/accelerators/low-energy-antiproton-ring"
+}

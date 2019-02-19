@@ -1,0 +1,21 @@
+{
+  "title": {
+    "en": "MOEDAL",
+    "fr": "MoEDAL"
+  },
+
+  "hook": {
+    "en": "The MOEDAL experiment is looking for a hypothetical particle with magnetic charge: the magnetic monopole",
+    "fr": "L\u2019exp\u00e9rience MoEDAL a pour but de rechercher une particule hypoth\u00e9tique portant une charge magn\u00e9tique : le monop\u00f4le magn\u00e9tique"
+  },
+
+  "body": {
+    "en": "<p>In 2010 the <a href=\"https://home.cern/science/accelerators/large-hadron-collider\">Large Hadron Collider</a> (LHC) approved its seventh experiment: the <a href=\"https://moedal.web.cern.ch/\">Monopole and Exotics Detector at the LHC</a> (MOEDAL). The prime motivation of MOEDAL is to search directly for the magnetic monopole \u2013 a hypothetical particle with a magnetic charge.</p><p>The MOEDAL collaboration has built a detector to search for this particle. This monopole detector is an array of 400 modules, each consisting of a stack of 10 sheets of plastic nuclear-track detectors, the total area of which is 250 m<sup>2</sup>. This detector \u2013 deployed around the same intersection region as the LHCb detector \u2013 is like a giant camera waiting to photograph the telltale signs of new physics, and the plastic nuclear-track detectors are its \"film\".</p><p>If magnetic monopoles do exist, they could be formed in collisions in the LHC. These monopoles would rip through the MOEDAL detector, breaking long-chain molecules in the plastic nuclear-track detectors and creating a minute trail of damage through all 10 sheets. A clear indication of the path of a monopole would be an aligned set of holes with the trajectory pointing back to the collision point.</p><p>MOEDAL is also looking for highly ionizing Stable Massive Particles (SMPs), predicted by theories beyond the <a href=\"https://home.cern/science/physics/standard-model\">Standard Model</a>.</p><h3>Find out more: <a href=\"https://moedal.web.cern.ch/\">MOEDAL</a></h3>",
+
+    "fr": "<p>En 2010, le <a href=\"https://home.cern/science/accelerators/large-hadron-collider\">Grand collisionneur de hadrons</a> (LHC) a approuv\u00e9 sa septi\u00e8me exp\u00e9rience : MoEDAL (<a href=\"https://moedal.web.cern.ch/\"><em>Monopole and Exotics Detector at the LHC</em></a>) MoEDAL a pour principale mission de rechercher directement le monop\u00f4le magn\u00e9tique, une particule hypoth\u00e9tique portant une charge magn\u00e9tique.</p><p>\u00c0 cette fin, la collaboration MoEDAL a construit un d\u00e9tecteur sp\u00e9cifique : un r\u00e9seau de 400 modules, consistant chacun en un empilement de 10 feuilles de mati\u00e8re plastique pour la d\u00e9tection des traces nucl\u00e9aires, et couvrant une surface de 250 m<sup>2</sup>. Le d\u00e9tecteur MoEDAL, install\u00e9 autour de la m\u00eame r\u00e9gion d\u2019intersection que celle du d\u00e9tecteur LHCb, est semblable \u00e0 un appareil-photo g\u00e9ant traquant tout signe r\u00e9v\u00e9lateur d\u2019une nouvelle physique, les d\u00e9tecteurs de traces nucl\u00e9aires formant en quelque sorte le \u00ab film photographique \u00bb.</p><p>S\u2019ils existent, les monop\u00f4les magn\u00e9tiques pourraient se former lors de collisions dans le LHC. Ces monop\u00f4les d\u00e9chireraient le d\u00e9tecteur MoEDAL, brisant les longues cha\u00eenes de mol\u00e9cules des feuilles de plastique, et laissant l\u2019empreinte de leur passage sur les 10 feuilles. La d\u00e9couverte d\u2019un alignement de marques dont la trajectoire pointerait en direction du point de collision indiquerait clairement le passage d'un monop\u00f4le.</p><p>L\u2019exp\u00e9rience a aussi pour but de de d\u00e9couvrir des particules massives stables fortement ionisantes, pr\u00e9dites par des th\u00e9ories au-del\u00e0 du <a href=\"https://home.cern/science/physics/standard-model\">Mod\u00e8le standard</a>.</p><h3>Pour en savoir plus : <a href=\"https://moedal.web.cern.ch/\">MoEDAL</a></h3><p> </p>"
+  },
+
+  "image_url": "None",
+  "oda_tags": ["moedal", "experiments"],
+  "id": "science/experiments/moedal"
+}

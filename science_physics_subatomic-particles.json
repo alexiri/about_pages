@@ -1,0 +1,21 @@
+{
+  "title": {
+    "en": "Subatomic particles",
+    "fr": null
+  },
+
+  "hook": {
+    "en": "CERN scientists are probing the fundamental structure of the universe to find out what the elementary particles are and how they interact",
+    "fr": null
+  },
+
+  "body": {
+    "en": "<p>Scientists at CERN are trying to find out what the smallest building blocks of matter are.</p><p>All matter except dark matter is made of molecules, which are themselves made of atoms. Inside the atoms, there are electrons spinning around the nucleus. The nucleus itself is generally made of protons and neutrons but even these are composite objects. Inside the protons and neutrons, we find the quarks, but these appear to be indivisible, just like the electrons.</p><p>Quarks and electrons are some of the elementary particles we study at CERN and in other laboratories. But physicists have found more of these elementary particles in various experiments, so many in fact that researchers needed to organize them, just like Mendeleev did with his periodic table.</p><p>This is summarized in a concise theoretical model called the <a href=\"https://home.cern/science/physics/standard-model\">Standard Model</a>. Today, we have a very good idea of what matter is made of, how it all holds together and how these particles interact with each other.</p>",
+
+    "fr": null
+  },
+
+  "image_url": "None",
+  "oda_tags": ["standard-model", "electron", "nucleus", "physics", "quark"],
+  "id": "science/physics/subatomic-particles"
+}

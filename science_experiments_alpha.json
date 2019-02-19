@@ -1,0 +1,21 @@
+{
+  "title": {
+    "en": "ALPHA",
+    "fr": "ALPHA"
+  },
+
+  "hook": {
+    "en": "ALPHA makes, captures and studies atoms of antihydrogen and compares them with hydrogen atoms",
+    "fr": "ALPHA a pour objet de capturer et \u00e9tudier des atomes d'antihydrog\u00e8ne et de les comparer aux atomes d'hydrog\u00e8ne"
+  },
+
+  "body": {
+    "en": "<p>The <a href=\"http://alpha.web.cern.ch/\">ALPHA experiment</a> is a successor of an earlier antimatter experiment, ATHENA. Set up in late 2005 with similar overall research goals as its predecessor, ALPHA makes, captures and studies atoms of antihydrogen and compares these with hydrogen atoms.</p><p>Creating antihydrogen depends on bringing together the two component antiparticles, antiprotons and positrons, in a trapping device for charged particles. Since antihydrogen atoms have no electric charge, once they form they can't be confined in such a device. In the ATHENA experiment the antiatoms would drift naturally to the walls of the trap. Because these walls were made of ordinary matter, the contact caused the antiatoms to annihilate a few microseconds after they were created.</p><p>ALPHA is picking up from where ATHENA left off. ALPHA uses a different trapping method to hold the antihydrogen atoms, and will keep them for a longer period before they annihilate with ordinary atoms.</p><p>In June 2011, ALPHA reported that it had <a href=\"https://home.cern/news/press-release/cern/cern-experiment-traps-antimatter-atoms-1000-seconds\">succeeded in trapping antimatter atoms for over 16 minutes</a>: long enough to begin to study their properties in detail. This should give the physicists time to take measurements and to find more answers to the antimatter mystery.</p>",
+
+    "fr": "<p><a href=\"http://alpha.web.cern.ch/\">L\u2019exp\u00e9rience ALPHA</a> a pris la suite d\u2019une autre exp\u00e9rience sur l\u2019antimati\u00e8re, ATHENA. Lanc\u00e9e fin 2005, ALPHA a pour objet de capturer et \u00e9tudier des atomes d\u2019antihydrog\u00e8ne et de les comparer aux atomes d\u2019hydrog\u00e8ne. ALPHA poursuit des objectifs similaires \u00e0 l\u2019exp\u00e9rience qui l\u2019a pr\u00e9c\u00e9d\u00e9e mais avec des outils diff\u00e9rents, dont la conception repr\u00e9sente une \u00e9volution par rapport \u00e0 l\u2019installation ant\u00e9rieure.</p><p>Pour obtenir de l\u2019antihydrog\u00e8ne, les physiciens doivent regrouper les antiprotons et les positons \u00e0 l\u2019int\u00e9rieur d\u2019une machine qui pi\u00e8ge les particules au moyen d\u2019une charge \u00e9lectrique. Cependant, comme les atomes d\u2019antihydrog\u00e8ne sont \u00e9lectriquement neutres, ils ne peuvent pas \u00eatre confin\u00e9s : ils migrent naturellement vers les parois du pi\u00e8ge. Comme les parois sont constitu\u00e9es de mati\u00e8re, le contact provoque l\u2019annihilation des antiatomes quelques microsecondes apr\u00e8s leur cr\u00e9ation.</p><p>ALPHA, s\u2019appuyant sur les connaissances acquises gr\u00e2ce \u00e0 l\u2019exp\u00e9rience ATHENA, utilise, outre le pi\u00e8ge standard, une m\u00e9thode de capture diff\u00e9rente pour conserver plus longtemps les atomes d\u2019antihydrog\u00e8ne avant qu\u2019ils s\u2019annihilent en rencontrant des atomes de mati\u00e8re. En juin 2011,  les chercheurs de l\u2019exp\u00e9rience ALPHA, ont annonc\u00e9 qu\u2019<a href=\"https://home.cern/fr/news/press-release/general-cern/cern-experiment-traps-antimatter-atoms-1000-seconds\">ils sont parvenus \u00e0 pi\u00e9ger des atomes d\u2019antimati\u00e8re pendant plus de 16 minutes</a>, soit suffisamment longtemps pour commencer \u00e0 \u00e9tudier leurs propri\u00e9t\u00e9s en d\u00e9tail. Les physiciens devraient ainsi disposer de plus de temps pour effectuer leurs mesures et, en cons\u00e9quence, pour \u00e9lucider les myst\u00e8res de l'antimati\u00e8re.</p>"
+  },
+
+  "image_url": "https://home.cern/sites/home.web.cern.ch/files/2018-07/alpha.jpg",
+  "oda_tags": ["antihydrogen", "alpha", "experiments", "antimatter"],
+  "id": "science/experiments/alpha"
+}

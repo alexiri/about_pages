@@ -1,0 +1,21 @@
+{
+  "title": {
+    "en": "The Proton Synchrotron Booster",
+    "fr": "Le Booster du Synchrotron \u00e0 protons"
+  },
+
+  "hook": {
+    "en": "Four superimposed synchrotron rings receive protons from the linear accelerator, boost them to 800 MeV and inject them into the Proton Synchrotron",
+    "fr": "Quatre anneaux synchrotron superpos\u00e9s re\u00e7oivent des protons de l'acc\u00e9l\u00e9rateur lin\u00e9aire, les acc\u00e9l\u00e8rent jusqu\u2019\u00e0 800 MeV, puis les injectent dans le PS"
+  },
+
+  "body": {
+    "en": "<p>The Proton Synchrotron Booster is made up of four superimposed synchrotron rings that receive beams of protons from the linear accelerator Linac 2 at 50 MeV and accelerate them to 1.4 GeV for injection into the <a href=\"https://home.cern/science/accelerators/proton-synchrotron\">Proton Synchrotron</a> (PS).</p><p>Before the Booster received its first beams on 26 May 1972, protons were injected directly from the linac into the PS, where they were accelerated to 26 GeV. The low injection energy of 50 MeV limited the number of protons the PS could accept. The Booster allows the PS to accept over 100 times more protons, which greatly enhances the beam's use for experiments.</p>",
+
+    "fr": "<p>Le Booster du Synchrotron \u00e0 protons est constitu\u00e9 de quatre anneaux synchrotron superpos\u00e9s qui re\u00e7oivent des faisceaux de protons de l\u2019acc\u00e9l\u00e9rateur lin\u00e9aire Linac 2 \u00e0 une \u00e9nergie de 50 MeV et les acc\u00e9l\u00e8rent jusqu\u2019\u00e0 1,4 GeV avant de les injecter dans le <a href=\"https://home.cern/science/accelerators/proton-synchrotron\">Synchrotron \u00e0 protons</a> (PS).</p><p>Avant que le Booster ait re\u00e7u ses premiers faisceaux le 26 mai 1972, les protons \u00e9taient inject\u00e9s directement du linac dans le PS, o\u00f9 ils \u00e9taient acc\u00e9l\u00e9r\u00e9s pour atteindre une \u00e9nergie de 26 GeV. La faible \u00e9nergie d'injection - 50 MeV - limitait le nombre de protons que le PS pouvait recevoir. Le Booster permet au PS d\u2019accepter cent fois plus de protons, ce qui am\u00e9liore consid\u00e9rablement les possibilit\u00e9s d\u2019utilisation du faisceau pour les exp\u00e9riences.</p>"
+  },
+
+  "image_url": "https://home.cern/sites/home.web.cern.ch/files/image/accelerator/2014/05/cern-photo-201405-098-60_compressed.jpg",
+  "oda_tags": ["accelerators"],
+  "id": "science/accelerators/proton-synchrotron-booster"
+}
