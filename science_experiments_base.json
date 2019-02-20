@@ -15,7 +15,7 @@
     "fr": null
   },
 
-  "image_url": "None",
+  "image_url": null,
   "oda_tags": ["experiments", "base", "antimatter"],
   "id": "science/experiments/base"
 }

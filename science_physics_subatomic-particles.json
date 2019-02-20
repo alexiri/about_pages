@@ -15,7 +15,7 @@
     "fr": null
   },
 
-  "image_url": "None",
+  "image_url": null,
   "oda_tags": ["standard-model", "electron", "nucleus", "physics", "quark"],
   "id": "science/physics/subatomic-particles"
 }
