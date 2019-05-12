@@ -16,6 +16,6 @@
   },
 
   "image_url": "https://cds.cern.ch/images/CERN-PHOTO-201802-030-10/file?size=large",
-  "oda_tags": ["accelerators"],
+  "oda_tags": ["accelerator"],
   "id": "science/accelerators/large-hadron-collider"
 }

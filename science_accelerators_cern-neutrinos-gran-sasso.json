@@ -16,6 +16,6 @@
   },
 
   "image_url": "https://home.cern/sites/home.web.cern.ch/files/image/accelerator/2013/01/cngs_0.jpg",
-  "oda_tags": ["gran-sasso", "accelerator", "opera", "speed-light", "accelerators", "neutrino"],
+  "oda_tags": ["gran-sasso", "accelerator", "opera", "speed-light", "neutrino"],
   "id": "science/accelerators/cern-neutrinos-gran-sasso"
 }

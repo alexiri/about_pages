@@ -16,6 +16,6 @@
   },
 
   "image_url": "https://home.cern/sites/home.web.cern.ch/files/image/accelerator/2012/12/SC%202012.jpg",
-  "oda_tags": ["accelerators", "synchrocyclotron"],
+  "oda_tags": ["accelerator", "synchrocyclotron"],
   "id": "science/accelerators/synchrocyclotron"
 }

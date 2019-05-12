@@ -16,6 +16,6 @@
   },
 
   "image_url": "https://cds.cern.ch/record/39313/files/9701002_03.jpeg?subformat=icon-1440",
-  "oda_tags": ["accelerators", "low-energy-antiproton-ring"],
+  "oda_tags": ["accelerator", "low-energy-antiproton-ring"],
   "id": "science/accelerators/low-energy-antiproton-ring"
 }

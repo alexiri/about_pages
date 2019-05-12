@@ -16,6 +16,6 @@
   },
 
   "image_url": "https://home.cern/sites/home.web.cern.ch/files/image/accelerator/2013/01/leir.jpg",
-  "oda_tags": ["leir", "accelerators"],
+  "oda_tags": ["leir", "accelerator"],
   "id": "science/accelerators/low-energy-ion-ring"
 }
