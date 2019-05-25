@@ -16,6 +16,6 @@
   },
 
   "image_url": "https://cds.cern.ch/images/CMS-PHO-GEN-2017-008-1/file?size=large",
-  "oda_tags": ["physics"],
+  "oda_tags": ["physics", "cosmic-rays"],
   "id": "science/physics/cosmic-rays-particles-outer-space"
 }
