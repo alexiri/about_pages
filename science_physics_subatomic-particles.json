@@ -1,21 +1,21 @@
 {
   "title": {
     "en": "Subatomic particles",
-    "fr": null
+    "fr": "Les particules subatomiques"
   },
 
   "hook": {
     "en": "CERN scientists are probing the fundamental structure of the universe to find out what the elementary particles are and how they interact",
-    "fr": null
+    "fr": "Les scientifiques du CERN \u00e9tudient la structure fondamentale de l'Univers pour mieux comprendre les particules \u00e9l\u00e9mentaires et la mani\u00e8re dont elles interagissent entre elles."
   },
 
   "body": {
-    "en": "<p>Scientists at CERN are trying to find out what the smallest building blocks of matter are.</p><p>All matter except dark matter is made of molecules, which are themselves made of atoms. Inside the atoms, there are electrons spinning around the nucleus. The nucleus itself is generally made of protons and neutrons but even these are composite objects. Inside the protons and neutrons, we find the quarks, but these appear to be indivisible, just like the electrons.</p><p>Quarks and electrons are some of the elementary particles we study at CERN and in other laboratories. But physicists have found more of these elementary particles in various experiments, so many in fact that researchers needed to organize them, just like Mendeleev did with his periodic table.</p><p>This is summarized in a concise theoretical model called the <a href=\"https://home.cern/science/physics/standard-model\">Standard Model</a>. Today, we have a very good idea of what matter is made of, how it all holds together and how these particles interact with each other.</p>",
+    "en": "<p>Scientists at CERN are trying to find out what the smallest building blocks of matter are.</p><p>Normal matter is made of molecules, which are themselves made of atoms. Inside the atoms, there are electrons spinning around the nucleus. The nucleus itself is generally made of protons and neutrons but even these are composite objects. Inside the protons and neutrons, we find the quarks, but these appear to be indivisible, just like the electrons.</p><p>Quarks and electrons are some of the elementary particles we study at CERN and in other laboratories. But physicists have found more of these elementary particles in various experiments, so many in fact that researchers needed to organize them, just like Mendeleev did with his periodic table.</p><p>This is summarised in a concise theoretical model called the <a href=\"https://home.cern/science/physics/standard-model\">Standard Model</a>. Today, we have a very good idea of what matter is made of, how it all holds together and how these particles interact with each other.</p>",
 
-    "fr": null
+    "fr": "<p>Les scientifiques du CERN tentent de d\u00e9terminer les plus petits \u00e9l\u00e9ments constitutifs de la mati\u00e8re.</p><p>La mati\u00e8re normale est form\u00e9e de mol\u00e9cules, elles-m\u00eames constitu\u00e9es d\u2019atomes. Les atomes sont compos\u00e9s d\u2019un noyau autour duquel gravitent des \u00e9lectrons. Le noyau est lui-m\u00eame constitu\u00e9 de protons et de neutrons. Ceux-ci sont \u00e9galement des objets composites: ils sont form\u00e9s de quarks. Les quarks comme les \u00e9lectrons semblent indivisibles.</p><p>Les quarks et les \u00e9lectrons sont des particules \u00e9l\u00e9mentaires que nous \u00e9tudions au CERN et dans d\u2019autres laboratoires. Mais les chercheurs ont trouv\u00e9 d\u2019autres particules \u00e9l\u00e9mentaires en r\u00e9alisant des exp\u00e9riences. Ils les ont organis\u00e9es, tout comme Mendele\u00efev l\u2019a fait avec son tableau p\u00e9riodique.</p><p>Les particules et les forces sont r\u00e9pertori\u00e9es au sein d\u2019un mod\u00e8le th\u00e9orique concis appel\u00e9 <a href=\"https://home.cern/science/physics/standard-model\">Mod\u00e8le standard</a>. Aujourd\u2019hui, nous avons une bonne id\u00e9e des particules qui composent la mati\u00e8re et de la mani\u00e8re dont elles interagissent.</p>"
   },
 
-  "image_url": null,
+  "image_url": "https://cds.cern.ch/images/CERN-EX-9207077-1/file?size=large",
   "oda_tags": ["standard-model", "electron", "nucleus", "physics", "quark"],
   "id": "science/physics/subatomic-particles"
 }

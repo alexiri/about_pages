@@ -1,21 +1,21 @@
 {
   "title": {
     "en": "The Synchrocyclotron",
-    "fr": null
+    "fr": "Le Synchrocyclotron"
   },
 
   "hook": {
-    "en": "The 600 MeV Synchrocyclotron, built in 1957, was CERN\u2019s first accelerator",
-    "fr": null
+    "en": "The 600-MeV Synchrocyclotron, which came into operation in 1957, was CERN\u2019s first accelerator",
+    "fr": "Mis en service en 1957, le synchrocyclotron (SC) fut le premier acc\u00e9l\u00e9rateur du CERN"
   },
 
   "body": {
-    "en": "<p>The 600 MeV Synchrocyclotron (SC), built in 1957, was CERN\u2019s first accelerator. It provided beams for CERN\u2019s first experiments in particle and nuclear physics. In 1964, this machine started to concentrate on nuclear physics alone, leaving particle physics to the newer and more powerful <a href=\"https://home.cern/science/accelerators/proton-synchrotron\">Proton Synchrotron</a>.</p><p>The SC became a remarkably long-lived machine. In 1967, it started supplying beams for a dedicated radioactive-ion-beam facility called <a href=\"https://home.cern/science/experiments/isolde\">ISOLDE</a>, which still carries out research ranging from pure nuclear physics to astrophysics and medical physics. In 1990, ISOLDE was transferred to the <a href=\"https://home.cern/science/accelerators/proton-synchrotron-booster\">Proton Synchrotron Booster</a>, and the SC closed down after 33 years of service.</p>",
+    "en": "<p>The 600-MeV Synchrocyclotron (SC), which came into operation in 1957, was CERN\u2019s first accelerator. It provided beams for CERN\u2019s first experiments in particle and nuclear physics. In 1964, this machine started to concentrate on nuclear physics alone, leaving particle physics to the newer and more powerful <a href=\"https://home.cern/science/accelerators/proton-synchrotron\">Proton Synchrotron</a>.</p><p>The SC became a remarkably long-lived machine. In 1967, it started supplying beams for a dedicated radioactive-ion-beam facility called <a href=\"https://home.cern/science/experiments/isolde\">ISOLDE</a>, which still carries out research ranging from pure nuclear physics to astrophysics and medical physics. In 1990, ISOLDE was transferred to the <a href=\"https://home.cern/science/accelerators/proton-synchrotron-booster\">Proton Synchrotron Booster</a>, and the SC closed down after 33 years of service.</p>",
 
-    "fr": null
+    "fr": "<p>Mis en service en 1957, le synchrocyclotron (SC) fut le premier acc\u00e9l\u00e9rateur du CERN. Il fournissait des faisceaux  \u00e0 une \u00e9nergie de 600 MeV aux premi\u00e8res exp\u00e9riences du CERN en physique des particules et en physique nucl\u00e9aire. \u00c0 partir de 1964, le SC fut orient\u00e9 vers les recherches en physique nucl\u00e9aire, laissant la physique des particules au nouvel acc\u00e9l\u00e9rateur du CERN, le<a href=\"https://home.cern/science/accelerators/proton-synchrotron\"> Synchrotron \u00e0 protons</a>, plus puissant.</p><p>En 1967, il commen\u00e7a ainsi  \u00e0 alimenter <a href=\"https://home.cern/science/experiments/isolde\">ISOLDE</a>, une installation fournissant des faisceaux d\u2019ions radioactifs pour des recherches allant de la physique nucl\u00e9aire pure \u00e0 l'astrophysique, en passant par la physique pour la m\u00e9decine. En 1990, ISOLDE fut transf\u00e9r\u00e9 au<a href=\"https://home.cern/science/accelerators/proton-synchrotron-booster\"> Proton Synchrotron Booster</a>. Le SC fut arr\u00eat\u00e9 apr\u00e8s 33 ans de service, une remarquable long\u00e9vit\u00e9</p><p> </p>"
   },
 
-  "image_url": "https://home.cern/sites/home.web.cern.ch/files/image/accelerator/2012/12/SC%202012.jpg",
+  "image_url": "https://cds.cern.ch/images/CERN-CE-1212246-02/file?size=large",
   "oda_tags": ["accelerator", "synchrocyclotron"],
   "id": "science/accelerators/synchrocyclotron"
 }
