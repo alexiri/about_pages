@@ -16,6 +16,6 @@
   },
 
   "image_url": "https://cds.cern.ch/images/OPEN-PHO-ACCEL-2017-010-2/file?size=large",
-  "oda_tags": ["accelerators"],
+  "oda_tags": ["accelerators", "high-luminosity-lhc"],
   "id": "science/accelerators/high-luminosity-lhc"
 }
