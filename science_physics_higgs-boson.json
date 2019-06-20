@@ -16,6 +16,6 @@
   },
 
   "image_url": "https://cds.cern.ch/images/CMS-PHO-EVENTS-2011-010-12/file?size=large",
-  "oda_tags": ["physics"],
+  "oda_tags": ["physics", "standard-model", "higgs-boson"],
   "id": "science/physics/higgs-boson"
 }
