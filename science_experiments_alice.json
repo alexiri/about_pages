@@ -17,5 +17,6 @@
 
   "image_url": "http://cds.cern.ch/record/1436153/files/LRsaba_CERN_0212_3221.jpg?subformat=icon-1440",
   "oda_tags": ["heavy-ion", "lhc", "quark-gluon-plasma", "alice", "experiments", "big-bang", "detector"],
+  "section_id": 8,
   "id": "science/experiments/alice"
 }

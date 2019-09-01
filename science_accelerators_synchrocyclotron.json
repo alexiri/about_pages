@@ -17,5 +17,6 @@
 
   "image_url": "https://cds.cern.ch/images/CERN-CE-1212246-02/file?size=large",
   "oda_tags": ["accelerator", "synchrocyclotron"],
+  "section_id": 7,
   "id": "science/accelerators/synchrocyclotron"
 }

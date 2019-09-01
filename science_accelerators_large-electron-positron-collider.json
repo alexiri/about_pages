@@ -17,5 +17,6 @@
 
   "image_url": "https://home.cern/sites/home.web.cern.ch/files/image/accelerator/2013/01/lep.jpg",
   "oda_tags": ["lep", "accelerator", "electron", "positron"],
+  "section_id": 7,
   "id": "science/accelerators/large-electron-positron-collider"
 }

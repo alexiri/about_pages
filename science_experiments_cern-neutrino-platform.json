@@ -17,5 +17,6 @@
 
   "image_url": "http://cds.cern.ch/record/2623855/files/201803-147_05.jpg?subformat=icon-1440",
   "oda_tags": ["experiments", "neutrino", "neutrino-platform", "cenf", "cern-neutrino-platform"],
+  "section_id": 8,
   "id": "science/experiments/cern-neutrino-platform"
 }

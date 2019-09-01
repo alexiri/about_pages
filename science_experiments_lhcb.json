@@ -17,5 +17,6 @@
 
   "image_url": "https://cds.cern.ch/record/2650174/files/201811-329_14.jpg?subformat=icon-1440",
   "oda_tags": ["experiments", "detector", "lhcb", "beauty-quark", "quark"],
+  "section_id": 8,
   "id": "science/experiments/lhcb"
 }

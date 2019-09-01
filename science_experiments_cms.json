@@ -17,5 +17,6 @@
 
   "image_url": "https://cds.cern.ch/images/CMS-PHO-GEN-2008-028-1/file?size=large",
   "oda_tags": ["cms", "detector", "experiments", "lhc"],
+  "section_id": 8,
   "id": "science/experiments/cms"
 }

@@ -17,5 +17,6 @@
 
   "image_url": "https://home.cern/sites/home.web.cern.ch/files/image/accelerator/2013/01/accelerators-ps.jpg",
   "oda_tags": ["accelerator", "proton-synchrotron", "proton"],
+  "section_id": 7,
   "id": "science/accelerators/proton-synchrotron"
 }
